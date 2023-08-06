@@ -52,6 +52,20 @@ position: fixed;
     font-size:140px;
     font-weight:900;
 }
+#page1 h1::before {
+    content:EAT. DRINK. PLAY.;
+}
+#page1 h2{
+    font-size:30px;
+    font-weight:800;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#page1 p{
+    font-size: 22px;
+    font-weight:500;
+    width:40%;
+}
 
 
 
